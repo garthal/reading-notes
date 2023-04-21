@@ -65,3 +65,5 @@ Success of others is incredibly important; it is an opportunity to learn what wo
 
 
 # Table of Contexts
+
+[# Class 1](https://garthal.github.io/hello-world/102-notes/Class_1.md)
